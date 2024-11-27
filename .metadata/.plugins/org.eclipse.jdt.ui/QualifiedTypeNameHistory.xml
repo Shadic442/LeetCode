@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.Console"/>
+<fullyQualifiedTypeName name="test.TwoSum"/>
+<fullyQualifiedTypeName name="test.TwoSum.Solution"/>
+<fullyQualifiedTypeName name="test.PalindromeNumber"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.parser.Parser"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="test.RomanToInteger"/>
+<fullyQualifiedTypeName name="test.RomanToInteger.Solution"/>
+</qualifiedTypeNameHistroy>

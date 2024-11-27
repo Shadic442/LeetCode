@@ -1,0 +1,17 @@
+package test;
+
+public class TwoSum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] nums = new int [2] ;
+		System.out.println(nums);
+	}
+	/*class Solution {
+	    public int[] twoSum(int[] nums, int target) {
+	    int n = nums.length;
+	    	return null;
+	    }
+	}*/
+}

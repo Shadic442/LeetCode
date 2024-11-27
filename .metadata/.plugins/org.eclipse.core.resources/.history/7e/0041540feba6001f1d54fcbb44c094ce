@@ -1,0 +1,40 @@
+package test;
+
+import javax.swing.text.html.parser.Parser;
+
+public class PalindromeNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String myNumberAsString = Integer.toString(121);
+		int myNumberAsInt = 121;
+
+		PalindromeNumber isAPalindrome = new PalindromeNumber();
+
+		System.out.println(
+				"my reversed string : " +
+		new StringBuilder("bonjours").
+		reverse().
+		toString());
+		
+		System.out.println(
+				"1st test whit 121 should be true : " +
+		isAPalindrome.isPalindrome(121));
+		
+		System.out.println(
+				"2nd test whit -121 should be false : " +
+		isAPalindrome.isPalindrome(-121));
+	}
+
+	public boolean isPalindrome(int x) {
+		String receivedNumber = Integer.toString(x);
+		String reversedNumber = new StringBuilder(receivedNumber).reverse().toString();
+
+		if (receivedNumber.equalsIgnoreCase(reversedNumber)) {
+			return true;
+		}
+
+		return false;
+
+	}
+}
