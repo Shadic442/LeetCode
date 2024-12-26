@@ -12,4 +12,7 @@
 <fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="test.RomanToInteger"/>
 <fullyQualifiedTypeName name="test.RomanToInteger.Solution"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="test.LongestCommonPrefix"/>
 </qualifiedTypeNameHistroy>

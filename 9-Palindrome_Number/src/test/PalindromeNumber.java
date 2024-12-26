@@ -1,13 +1,13 @@
 package test;
 
-import javax.swing.text.html.parser.Parser;
+//import javax.swing.text.html.parser.Parser;
 
 public class PalindromeNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String myNumberAsString = Integer.toString(121);
-		int myNumberAsInt = 121;
+		//String myNumberAsString = Integer.toString(121);
+		//int myNumberAsInt = 121;
 
 		PalindromeNumber isAPalindrome = new PalindromeNumber();
 
