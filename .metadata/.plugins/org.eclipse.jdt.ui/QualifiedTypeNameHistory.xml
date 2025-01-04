@@ -13,6 +13,8 @@
 <fullyQualifiedTypeName name="test.RomanToInteger"/>
 <fullyQualifiedTypeName name="test.RomanToInteger.Solution"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="test.LongestCommonPrefix"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
