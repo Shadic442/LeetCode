@@ -7,14 +7,17 @@
 <fullyQualifiedTypeName name="javax.swing.text.html.parser.Parser"/>
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="test.RomanToInteger"/>
 <fullyQualifiedTypeName name="test.RomanToInteger.Solution"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="test.LongestCommonPrefix"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="test.MergeTwoSortedLists.ListNode"/>
 </qualifiedTypeNameHistroy>
